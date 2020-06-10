@@ -1,0 +1,4 @@
+Blödsinn=bullshit
+Ladekabel=charger
+Maus=mouse
+Rechner=calculator

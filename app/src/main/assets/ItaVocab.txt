@@ -1,0 +1,5 @@
+Nudeln=pasta
+gut=bene
+blala1=blala1
+blala2=blala2
+blala3=blala3

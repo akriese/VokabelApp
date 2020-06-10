@@ -1,0 +1,8 @@
+klein=petit
+groß=grand
+PC=ordinateur
+Fernseher=televiseur
+Bruder=frere
+Schwester=soeur
+Mutter=mère
+Vater=père

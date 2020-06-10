@@ -1,0 +1,804 @@
+﻿//ab hier kommen Verben
+machen=する=します=して=
+gehen=行く=行きます=行って=
+kommen=来る=来ます=来て=
+sein (lebendig)=（居）いる=（居）います=（居）いて=
+sein (leblos)=（在）ある=（在）あります=（在）あって=
+sein (Hilfsverb)=です=です=で=
+aufstehen, aufwachen=（起）おきる=（起）おきます=（起）おきて=
+kaufen=買う=買います=買って=
+sagen=言う=言います=言って=
+treffen=会う=会います=会って=
+aufstehen (von Sitz)=たう=立ちます=立って=
+warten=（待）まつ=（待）まちます=（待）まって=
+nehmen, besitzen, halten=（持）もつ=（持）もちます=（持）もって=
+verstehen, wissen, kennen=（解）わかる=（解）わかります=（解）わかって=
+lesen=よむ=読みます=読んで=
+sterben=（死）しぬ=（死）しにます=（死）しんで=
+malen, schreiben=書く=書きます=書いて=
+schwimmen=（泳）およぐ=（泳）およぎます=（泳）およいで=
+öffnen=開ける=開けます=開けて=
+schließen=（閉）しめる=（閉）しめます=（閉）しめて=
+waschen (nass werden)=（洗）あらう=（洗）あらいます=（洗）あらって=
+nehmen=（取）とる=（取）とります=（取）とって=
+essen=食べる=食べます=食べて=
+trinken=飲む=飲みます=飲んで=
+rausgehen, verlassen=（出）でる=（出）でます=（出）でて=
+einsteigen (Zug, Auto)=（乗）のる=（乗）のります=（乗）のって=
+hinsetzen=（座）すわる=座ります=座って=
+aussteigen (Zug, Auto)=（降）おりる=降ります=降りて=
+zu Fuß gehen=）あるく=歩きます=歩いて=
+sprechen, unterhalten=（話）はなす=話します=話して=
+sehen=（見）みる=見ます=見て=
+leben=すむ=すみます=住んで=
+einladen=よぶ=呼びます=呼んで=
+springen=（飛）とぶ=（飛）とびます=（飛）とんで=
+ausziehen (Kleidung)=（脱）ぬぐ=（脱）ぬぎます=（脱）ぬいで=
+beeilen=（急）いそぐ=（急）いそぎます=（急）いそいで=
+fragen, hören=（聞）きく=聞きます=聞いて=
+löschen, ausschalten=（消）けす=（消）けします=（消）けして=
+schlafen=（寝）ねる=（寝）ねます=（寝）ねて=
+zurückkehren=（帰）かえる=（帰）かえります=（帰）かえって=
+ausleihen=（貸）かす=（貸）かします=（貸）かして=
+ausruhen, Pause machen=（休）やすむ=休みます=休んで=
+eintreten (Gebäude)=（入）はいる=（入）はいります=（入）はいって=
+sich nähern=ちかずく=ちかずきます=ちかずいて=
+ziehen, einfangen (auch Krankheit)=（引）ひく==引きます=引いて=
+spielen (Klavier, Gitarre)=（弾）ひく=弾きます=弾いて=
+sich freuen=（喜）よろこぶ=（喜）よろこびます=（喜）よろこんで=
+können=出来る=出来ます=出来て=
+begleiten, mitnehmen (lebendig)=（連）つれる=（連）つれます=（連）つれて=
+bekommen (nicht so höflich)=（貰）もらう=（貰）もらいます=（貰）もらって=
+anhäufen=（積）つもる=（積）つもります=（積）つもって=
+kennen, wissen=しる=知ります=知って=
+informieren, in Kenntnis setzen=知らせる=知らします=知らせて=
+unterrichten=（教）おしえる=（教）おしえます=（教）おしえて=
+schicken, überweisen=（送）おくる=送ります=送って=
+bekommen, entgegennehmen (höflich)=（頂）いただく=（頂）いただきます=（頂）いただいて=
+benutzen, gebrauchen=（使）つかう=（使）つかいます=（使）つかって=
+brauchen, benötigen=（要）いる=（要）いります=（要）いって=
+laufen, rennen, marschieren=（走）はしる=（走）はしります=（走）はしって=
+schneiden, ausschalten (Licht)=（切）きる=（切）きります=（切）きて=
+anziehen=（着）きる=（着）きます=（着）きて=
+auswechseln, umtauschen, umziehen (Kleidung), ersetzen=（代）かえる=（代）かえます=（代）かえて=
+vergessen=（忘）わすれる=（忘）わすれます=（忘）わすれて=
+sich erinnern=（覚）おぼえる=（覚）おぼえます=（覚）おぼえて=
+rauchen, einsaugen=（吸）すう=（吸）すいます=（吸）すって=
+singen=（歌）うたう=（歌）うたいます=（歌）うたって=
+nennen, rufen=（呼）よぶ=（呼）よびます=（呼）よんで=
+herstellen, produzieren=（作）つくる=（作）つくります=（作）つくって=
+fallen (Regen, Schnee)=（降）ふる=（降）ふります=（降）ふって=
+schütteln=（揺）ゆる=（揺）ゆります=（揺）ゆって=
+suchen=（探）さがす=（探）さがします=（探）さがして=
+wohnen=住んでいる=住んでいます=住んでいて=
+stoppen, verhindern, zurückhalten=（止）とめる=（止）とめります=（止）とめって=
+polieren, putzen (Zähne)=（磨）みがく=（磨）みがきます=（磨）みがいて=
+entlassen, (enthaupten)=（首切）くびきる=（首切）くびきります=（首切）くびきって=
+geboren werden=（生）うまれる=生まれます=生まれて=
+herausnehmen, herausholen=（出）だす=出します=出して=
+fahren (selbst, "drive")=（運転）うんてんする=（運転）うんてんします=（運転）うんてんして=
+wechseln, verändern, umziehen (Haus)=（変）かわる=（変）かわります=（変）かわって=
+verkaufen=（売）うる=（売）うります=（売）うって=
+besser werden=（良）よくなる=（良）よくなります=（良）よくなって=
+sicher verbessern, heilen=（治）なおる=（治）なおります=（治）なおって=
+arbeiten (3. Var.), angestellt sein=（努）つとめる=（努）つとめます=（努）つとめて=
+erlaubt sein, möglich sein, (gehen können)=行ける=行けます=行けて=
+entscheiden=（決）きめる=（決）きめます=（決）きめて=
+verlieren, besiegt werden=（負）まける=（負）まけます=（負）まけて=
+gewinnen=（勝）かつ=（勝）かちます=（勝）かって=
+abbiegen=曲がる=曲がります=曲がって=
+antworten=（答）こたえる=（答）こたえます=（答）こたえて=
+platzieren, einladen, reinnehmen=（乗）のせる=（乗）のせます=（乗）のせて=
+müde sein, erschöpft sein=（疲）つかれる=（疲）つかれます=（疲）つかれて=
+aufräumen=（掃除）そうじする=（掃除）そうじします=（掃除）そうじして=
+wischen=（吹）ふく=（吹）ふきます=（吹）ふきて=
+kleben=くっつける=くっつけます=くっつけて=
+werden=なる=なります=なって=
+vorbereiten=（準備）じゅんびする=（準備）じゅんびします=（準備）じゅんびして=
+umziehen=（引っ越）ひっこす=（引っ越）ひっこします=（引っ越）ひっこして=
+Essen kochen, vorbereiten=（食べ物を作）つくる=（食べ物を作）つくります=（食べ物を作）つくって=
+hinstellen, vorsorglich tun=（置）おく=（置）おきます=（置）おいて=
+beenden, fertig machen, vollenden=しまう=しまいます=しまって=
+geben (mir, uns)=（呉）くれる=（呉）くれます=（呉）くれて=
+übernachten=（泊）とまる=（泊）とまります=（泊）とまって=
+Grenze überschreiten, zu viel sein=（過）すぎる=（過）すぎます=（過）すぎて=
+zeigen=（指）さす=（指）さします=（指）さして=
+scheinen=さす=さします=さして=
+eingießen=さす=さします=さして=
+geben (höflich, auch anderen)=（上）あげる=（上）あげます=（上）あげて=
+tanzen====
+klatschen====
+(werde gennant)=もうす==
+//hier hören =die Verben auf 2-111
+
+//hier fangen die Adjektive an
+groß=おおきい=大きい=
+klein=ちいさい=小さい=
+viel=おおい=多い=
+wenig=すこしい、　すくない=少しい、　少ない=
+gut=いい=良い=
+schlecht, böse=わるい=悪い=
+interessant, unterhaltsam=おもしろい=面白い=
+langweilig=つまらない=詰まらない=
+teuer, hoch=たかい=高い=
+billig, beruhight, entspannt=やすい=安い=
+rot=あかい=赤い=
+schwarz=くろい=黒い=
+weiß, unschuldig=しろい=白い=
+schön, sauber, rein=きれいな=綺麗な=
+hässlich=まずい=不味い=
+gesund=げんきな=元気な=
+krank=むねがわるい=胸が悪い=
+beschäftigt=いそがしい=忙しい=
+unbeschäftigt (Freizeit habend)=ひまな=暇な=
+ruhig=しずかな=静かな=
+belebt=にぎやかな=賑やかな=
+berühmt=ゆうめいな=有名な=
+lecker=おいしい=美味しい=
+eklig=まずい=不味い=
+neu=あたらしい=新しい=
+alt=ふるい=古い=
+heiß (Wetter)=あつい=暑い=
+heiß (Gegenstand)=あつい=熱い=
+kalt (Wetter)=さむい=寒い=
+schmerzhaft=いたい=痛い=
+leicht=かるい=軽い=
+schwer=おもい=重い=
+schwierig=むずかしい=難しい=
+einfach=やさしい=優しい=
+freundlich, hilfsbereit=しんせつな=親切な=
+hart=かたい=難い=
+weich=やわらかい=柔らかい=
+rund=まるい=円い=
+viereck=しかくい==
+müde=むい=無い=
+hell=あかるい=明るい=
+dunkel=くらい=暗い=
+schnell=はやい=早い=
+langsam=おそい=遅い=四角い
+lustig, fröhlich=たのしい=楽しい=
+traurig=みじめな=惨めな=
+angenehm kühl, erfrischend=すずしい=涼しい=
+warm (Wetter)=あたたかい=暖かい=
+schwül=むしあつい=蒸し暑い=
+süß, niedlich=かわいい=可愛い=
+dreckig=きたない=汚い=
+peinlich=はずかしい=恥かしい=
+stark=つよい=強い=
+schwach=ゆるい=緩い=
+lang=ながい=長い=
+kurz=みじかい=短い=
+niedrig=ひくい=低い=
+blau=あおい=青い=
+grün=みどりいろな=緑いろな=
+gelb=きいろい=黄色い=
+gefährlich=あぶない=危ない=
+dick, dickflüssig=ふとい=太い=
+dünn=うすい=薄い=
+weit=とおい=遠い=
+nah=ちかい=近い=
+super, wunderbar=すばらしい=素晴らしい=
+kaltherzig=つめたい=冷たい=
+unordentlich=きたない=汚い=
+eng, schmal=せまい=狭い=
+weit, breit=ひろい=広い=
+intensiv===
+beliebt===
+furchtbar===
+aufwendig===
+verkatert sein=ふつかよい=二日酔い=
+ekstatisch, rauschhaft, schrecklich wehtuend=ぎんぎん==
+praktisch=べんりな==
+weise=かしこい==
+intelligent=あたまがいい==
+gefühlsverschlechternd, sich unwohl fühlen=きもちわるい==
+flauschig, weich=ふかふか、もこもこ、ふわふわ
+schwarz-weiß=しろくろ
+
+//hier hören die Adjektive auf　115-196
+
+//hier fangen die Floskeln an
+Danke!=ありがとう。
+Vielen Dank!=ありがとうございます。
+Hallo, Guten Tag!=こんにちは。
+Guten Abend!=こんばんは。
+Guten Morgen!=おはようございます。
+Gute Nacht!=おやすみ。
+Natürlich!=もちろん。
+Wirklich?=ほんとうに。
+Bis später!=またあとで。
+Bis morgen!=またあした。
+Wie geht's?=でんきですか。
+Gute Besserung!=お大事に。
+Was ist denn mit dir passiert?=
+Entschuldigung!=しつれいします。
+Entschuldigung?=すみません。
+Bitte sehr!=どういたしまして。
+Bitte!=どうぞ。
+Ich greife zu!=いただきます。
+Ich bin zu spät...=おくれてすみません。
+Wohin des Wegs?=どちらまで。
+Tschüss! (bei kurzem Sprechen/Sehen)=しつれいします/また
+Ist schon gut/ok.=けっこうです。
+Ist es ok?=だいじょうぶですか。
+Kein Problem/Ist gut.=だいじょうぶです。
+Hallo! (Telefon)=もしもし。
+Freut mich, Sie kennen zu lernen!=初めまして。
+Auf eine gute Zusammenarbeit!=どうぞよろしくお願いします。
+Ich bitte darum!=お願いします。
+kein Problem/nichts zu danken=どういたしまして
+Nein, danke.=いいえ、もうけっこです。
+Willkommen! (im Laden)=いらしゃいませ
+Willkommen! (privat)=ようこそ
+...bitte=ください
+nun, also, wenn das so ist=じゃ
+Schluss!=だめです。
+Das bereitet mir Probleme=こまります。
+Blöd!=ばか。
+Das reicht!, Hör auf!, Sei still!=うるさい, もういいです。
+
+//hier hören die Floskeln auf
+
+//hier fangen die Grammatik-Regeln an
+Themapartikel=...は
+"auch"-Partikel=...も
+nie... (...mand, ...mals, ...wo)=(だれ、いつ)も + Verneinung
+jeder, überall, immer=だれも、どこも、いつも
+irgend... (...jemand, ...wann, ...wo)=(だれ、いつ)か
+Fragepartikel=か
+auf (Sprache)=で
+mit (z.B. Auto)=で
+Handlungspartikel=で
+Akkusativpartikel=を
+Subjektpartikel=が
+Zielpartikel, Zeitpartikel=に
+Zielpartikel=へ
+Mitmacher-Partikel=と
+"Anfangspartikel" (von/seit/ab/aus)=から
+weil...deshalb (since)=～から、...
+"Endpartikel" bis=まで
+ge?, ne?, oder?=～ね
+
+Nummer-Fragewort=なんばん
+wer-Fragewort=だれ
+was?=なに、なん
+wo?=どこ
+wie?=どう
+was für ein?=どんな
+wie viel?=いくら
+wann?=いつ
+warum?=どうして
+Welche Richtung/Person?=どちら
+welches, welcher, welche=どの
+Wie viel? Wie oft?=どのぐらい
+
+i-Adj. Ersatz für "い" Pos. Präs.=いです
+i-Adj. Ersatz für "い" Neg. Präs.=くないです
+i-Adj. Ersatz für "い" Pos. Verg.=かったです
+i-Adj. Ersatz für "い" Neg. Verg.=くなかったです
+nicht gut Präs.=よくない
+nicht gut Verg.=よっかった
+
+Vorschlag (Wollen wir?)=～ませんか
+Aufforderung (Lass uns!)=～ましょう
+
+//hier hören die Grammatik-Regeln auf
+
+//hier fangen wichtige Zeit-/Zielwörter, Präpositionen und Linking-Words an
+aber=...が、/...けど、
+aber=...、でも
+weil=
+deshalb=
+danach, später=
+davor=
+in Wirklichkeit/eigentlich=
+nachher=
+schon bald=
+selten, kaum=あまり + Verneinung
+ein bisschen/ein wenig=ちょっと
+oft=よく
+viel=たくさん
+wenig=すこし
+manchmal=ときどき
+immer=いつも
+gar nicht/nie=ぜんぜん～ません
+insgesamt=ぜんぶで
+noch einmal=
+wirklich=
+Vormittag (a.m.)=ごせん
+Nachmittag (p.m.)=ごご
+morgens=あさ
+mittags=ひる
+abends=ばん
+nachts=よる
+tagsüber=
+täglich=まいにち
+wöchentlich=まいしゅう
+monatlich=まいつき
+jährlich=まいとし
+jeder, jedes, jede=まい
+Jahr=ねん
+heute=きょう
+gestern=きのう
+morgen=あした
+bis dahin=
+innerhalb=
+wahrscheinlich, vermutlich=
+schon=
+noch (nicht)=
+in der Umgebung=
+am Anfang, als erstes, das erste Mal=
+am Ende, zum Schluss=
+geradeaus=
+unter, unten=した
+rechts=みぎ
+links=ひだり
+vor, davor=まえ
+hinter=うしろ
+neben, seitlich=よこ
+direkt nebenan=となり
+in der Nähe=そば
+in der Nähe=ちかく
+in der Ferne=とうく
+gegenüber=むかい
+innen, in=なか
+draußen, außen, außerhalb=そと
+zwischen=あいだ
+normalerweise=
+folgende(r/s), nächste(r/s)=つぎ
+früher=むかし
+und (absolut)=と
+und (Beispiel)=や
+oder=か
+außerdem, darüber hinaus=
+ungefähr (Zeit)=ごろ
+ungefähr (Zahl)=だいたい
+ungefähr (allgemein)=
+wir=わたしたち
+du=あなた
+Pluralsuffix für Menschen=～たち
+
+//hier hören die wichtigen Zeitwörter, Präpositionen und Linking-Words auf
+
+//region hier Beginnen Zahlwörter
+allein=
+zu zweit=
+gemeinsam=いっしょに
+zu dritt=
+0=ぜろ/れい
+1=いち
+2=に
+3=さん
+4=よん
+5=ご
+6=ろく
+7=なな
+8=はち
+9=きゅう/く
+10=じゅう
+20=にじゅう
+30=さんじゅう
+40=よんじゅう
+50=ごじゅう
+60=ろくじゅう
+70=ななじゅう
+80=はちじゅう
+90=きゅうじゅう
+200=にひゃく
+300=さんびゃく
+400=よんひゃく
+500=ごひゃく
+600=ろっぴゃく
+700=ななひゃく
+800=はっぴゃく
+900=きゅうひゃく
+1. Tag=ついたち
+2. Tag=ふつか
+3. Tag=みっか
+4. Tag=よっか
+5. Tag=いつか
+6. Tag=むいか
+7. Tag=なのか
+8. Tag=ようか
+9. Tag=ここのか
+10. Tag=とおか
+14. Tag=じゅうよっか
+19. Tag=じゅうくにち
+20. Tag=はつか
+24. Tag=にじゅうよっか
+4. Monat (April)=しがつ
+9. Monat (September)=くがつ
+10.000=まん
+100 Mio.=おく
+1 Bio.=ちょう
+ZW n. Gegenstände=～つ　～こ
+ZW Menschen=～にん
+ZW flach, dünn=～まい
+ZW länglich=～ほん
+ZW Bücher=～さつ
+ZW kleine Tiere=～ひき
+ZW Maschinen=～だい
+ZW Etage=～かい
+
+//endregion hier hören die Zahlwörter auf
+
+
+//ab hier gibt's allgemeine Vokabeln
+gleich=
+Land=くに
+Herkunftsstadt=しゅっし
+Wohnort (Stadt)=
+Beruf=
+Hobby=
+Getränk=
+Freizeit=
+Familie=
+Papi (nur Bezeichnung)=ちち
+Mami (nur Bezeichnung)=はは
+Eltern=りょうしん
+Vater=
+Mutter=
+gr. Bruder=
+gr.Schwester=
+kl. Bruder=
+kl. Schwester=
+Opa=
+Oma=
+Freund=
+Ehefrau=
+Ehemann=
+Onkel=
+Tante=
+mein Sohn=むすこ
+meine Tochter=むすめ
+meine Ehefrau=つま
+mein Ehemann=おっと
+Ehepartner=ふうふ
+mein großer Bruder=あに
+meine große Schwester=あね
+Geschwister=きょうだい
+Yoghurt=
+Obst=
+Puppe=
+Woche, Runde=
+Erde, Boden=
+Erde, Landschaft=
+Zeitraum=
+Dose=
+Norden=きた
+Süden=みなみ
+Osten=ひがし
+Westen=にし
+Nord-Ost=ほくとう
+Süd-Ost=なんとう
+Süd-West=なんせい
+Nord-West=ほくせい
+Park=
+Richtung=
+Wasser=
+Feuer=
+Luft=
+Himmel=
+Regen=
+Schnee=
+Interesse=
+Handy=
+Landkarte=
+Tempel=
+Stau=
+Prost=
+Aussicht=
+Haus/Zuhause=（お）たく
+Mahlzeit, Reis=
+Frühstück=
+Mittagessen=
+Abendessen=
+Essstäbchen=
+Löffel=
+Messer=
+Gabel=
+am Anfang=
+Barbeque=
+Lunchpaket=おべんとう
+Reservierung=よやく
+
+Fisch=さかな
+Brille=めがね
+Liebe=あい
+Haus (Gebäude)=いえ
+Bahnhof=えき
+Gesicht=きお
+Teich=いけ
+Sushi=すし
+Regenschirm=かさ
+Salz=しお
+Regel/Gesetz=きそく
+Welt=せかい
+Schuhe=くつ
+Uhr=とけい
+Fleisch=にく
+Pfirsich=もも
+Oberschenkel=もも
+Visitenkarte=めいし
+Biene/Wespe=はち
+Kleidung=ふく
+Bauchnabel=へそ
+Stern=ほし
+Berg=やま
+Eichhörnchen=りす
+Affe=さる
+Kirsche=さくら
+Fluss=かわ
+Buch=ほん
+Garten=にわ
+Firma/Unternehmen=かいしゃ
+Hausaufgaben=しゅくだい
+traditionelles jap. Gasthaus=りょかん
+Fahrkarte=きっぷ
+Milch=ぎゅうにゅう,　ミルク
+Krankenhaus/Praxis=びょういん
+Kartoffel=じゃがいも
+Universität=だいがく
+Rechtsanwalt=べんごし
+Bank=ぎんこう
+Hose=ずぼん
+Apfel=りんご
+Brille=めがね
+Tisch=つくえ/テーブル
+Telefon=でんわ
+Auto=くるま
+Zeitung=しんぶん
+Magazin=ざっし
+Briefmarke=きって
+Zug=でんしゃ
+Tasche=かばん
+U-Bahn=ちかてつ
+Foto=しゃしん
+Fahrrad=じてんしゃ
+Bleistift=えんぴつ
+Hauptstadt=きょう
+Vater=おとうさん
+Manager=しゃちょう
+Schule=がっこう
+Unterricht=じゅうぎょう
+China=ちゅうごく
+Grundschule=しょうがっこ
+Krankenwagen=きゅうきゅうしゃ
+Teppich=じゅうたん
+Oberschüler=こうこうせい
+Stuhl=いす
+Schlüssel=かぎ
+Fenster=まど
+Gemüse=やさい
+T-Shirt=T-シャツ
+Tür=ドア
+Bus=バス
+Mikrofon=マイク
+Bier=ビール
+Kamera=カメラ
+Jena=イエーナ
+England=イギリス
+Frankreich=フランス
+Englisch (Sprache)=えいご
+Sekretär(in)=ひしょ
+Angestellte(r)=いん
+Vogelscheuche=ブス
+Vorhang=カーテン
+Botschafter=たいし
+Adresse=じゅうしょ
+Nummer=ばんごう
+weiblich=おんな
+männlich=おとこ
+Mensch=ひと
+Stunde=じ
+Minute=ふん (bei 1,3,6,8,10: っぷん)
+Kaufhaus=デパート
+Sitzung/Konferenz=かいぎ
+Party/Feier=パアチイ(paatii)
+Mittagspause=ひるやすみ
+Monat=がつ
+Tag=にち
+Wochentag=ようび
+Arbeit=しごと
+Montag=げつようび
+Dienstag=かようび
+Mittwoch=すいようび
+Donnerstag=もくようび
+Freitag=きんようび
+Samstag=どようび
+Sonntag=にちようび
+Polizei=けいさつ
+Feuerwehr=しょうぼうしょ
+Blumenladen=はなや
+Alter (Jahre)=さい
+Geburtstag=たんじょうび
+Lausprecher=スピーカ
+Router=ルータ
+Biologe=せいぶつがくしゃ
+Ananas=パイナップル
+Wörterbuch=じしょ
+Lehrbuch=きょうかしょ
+Pinnwand=ぱねる
+Schalter=スイッチ
+Baum=き
+Stift=ペン
+Laden=てん、～や
+Yen=えん
+Geld=おかね
+Wasser=みず
+Computer=コンピュータ
+Tulpen=チューリップ
+Wassermelone=すいか
+Motorrad=オートバイ
+Schere=はさみ
+Socken=くつした
+Kalender=カレンダー
+Mandarine=みかん
+Terminkalender=てちょう
+Schwarztee=こうちゃ
+Stereoanlage=ステレオ
+Reisball=おにぎり
+High Heels=ハイヒール
+Schokolade=チョコレート
+Radio=ラジオ
+Kassettenrekorder=テープレコータ
+Fernseher=テレビ
+Kaffee=コーヒ
+Euro=ユーロ
+Cent=セント
+lecker=おいし
+Tomate=トマト
+CD=シーデイ
+Papier, Gott=かみ
+Toast=トースト
+Tasse=カップ
+Becher, Glas=コップ
+Batterie=でんち
+Kilo=キロ
+Dutzend=ダース
+Pullover=セーター
+Gegenstände, Ding=もの
+Film (Kamera)=フイルム
+Filiale=ししゃ
+Restaurant=レストラン
+Film (DVD)=えいが
+Kassenbon=レシート
+Woche=しゅう
+Postamt=ゆうびんきょく
+Flugzeug=ひこうき
+Taxi=タクシー
+zu Fuß=あるいて
+Postkarten=はがき
+Tonband=テープ
+Journalist=ジャーナリスト
+Krankenschwester=かんごふ
+Schiff=ふね
+ICE Japans=しんかぜん
+Buddhistischer Mönch=おぼうさん
+Blume=はな
+Schrank=とだな
+Badezimmer=ふろば
+Kühlschrank=れいぞうこ
+Bild=え
+Sofa=ソフアー
+Speisesaal=しょくどう
+Regal=たな
+Eingang, Haustür=げんかん
+TV=テレビ
+Waschmaschine=せんたくき
+Trockner=かんそうき
+Zimmer=へや
+Küche=だいどころ、キッチン
+Kinder=こども
+Paris=パリ
+Mnt. Everest=エベレスト
+Eiffelturm=エッフエルとう
+Pyramide=ピラミッド
+Ägypten=エジプト
+Niagarafälle=ナイアガラ
+-stand/-eingangspunkt=～りば
+Schachtel, Karton, Kiste=はこ
+Hamster=ハムスター
+Weihnachtsmann=サンタクロース
+Empfangsbereich=うけつけ
+Botschaft=たいしゃかん
+Untergeschoss=ちか
+Garage=ガレージ
+Ticket gate=かいさくち
+Polizeihäuschen=こうばん
+Polizist=けいさつかん
+Medizinladen=くすりや
+Alkoholladen=さかや
+Gemüseladen=やおや
+Bäckerei=パンや
+Bushaltestelle=バスのりば
+Toilette=トイレ
+Krankenzimmer=びょうしつ
+Tennishalle=テニスコート
+Schwimmbad=プール
+Traingsraum=ジム
+Café=きっさてん
+Shop=ショップ
+Fahrstuhl=エレベーター
+Schwein=ぶた
+Croissant=クロワッサン
+Wochenende=しゅうまつ
+Kabuki-Theater=かぶき
+Kartenvorverkauf=プレイガイド
+Musik=おんがく
+Lernen, Studium=べんきょう
+Fussball=サッカー
+Sumoringen=すもう
+Shopping=ショッピング
+Steak=ステーキ
+Brief=てがみ
+Mond=げつ
+Feuer=ひ
+Bibliothek=としょかん
+News=ニュース
+Sport=スポーツ
+Freude=ばんざい
+Handy=スマホ
+Hersteller=メーカー
+Südkorea=かんごく
+Pommes Frites=ポテト
+Spaziergang=さんぽ
+Instrument=がっき
+Viola=ビオラ
+Zigarre=はまき
+Saft=ジュース
+Schallplatte=レコード
+Sandwich=サンドイッチ
+Tee=おちゃ, ちゃ
+Salat=サラダ
+japanischer Reiswein=おさけ, さけ
+Suppe=スープ
+Einkäufe=かいもの
+Familie=かぞく
+Hotel=ホテル
+Geschäft=みせ
+Süßigkeiten=おかし
+Ei=たまご
+Rindfleisch=きゅうにく
+Hühnerfleisch=とりにく
+Park=こうえん
+Mahlzeit (Handlung)=しょくじ
+Mahlzeit (Essen)=ごはん
+Wetter=てんき
+Zahlwort Tasse, Becher=いっぱい
+Wahrheit=ほんとう
+wahrlich, wirklich=ほんとうに
+Ballon=ふうせん
+Rabe=からす
+Giraffe=きりん
+Schlange=へび
+Wal=くじら
+Löwe=ライオン
+Schildkröte=かめ
+Elefant=ぞう
+Ameise=あり
+Maus=ねずみ
+Kanienchen=うさぎ
+Kuh=うし
+Fuchs=きつね
+Tier=どうぶつ
+Kopfhörer=イヤホーン
+Reise=りょこう
+Essen=りょうり
+Lieblings-...=すきな...
+Hass-...=きらいな...
+Eingang, Ausgang=ぐち
+Portemonnaie=さいふ
+Vase=かびん
+Farbe=いろ
+Geschichte=れきし
+Krawatte=ネクタイ
+Umstände=つごう
+Wanderung=ハイキング
+Meer, Ozean=うみ
+Löffel=スプーン
+Medikament=くすり
+Abschiedsfeier=そうべつかい
+Willkommensfeier=かんげいかい
+Klimaanlage=エアコン
+Kopie=コピー

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Vokabel App</string>
+    <string name="action_settings">Settings</string>
+    <string name="TextViewHeadline">Sprachauswahl</string>
+    <string name="buttonJap">Deutsch - Japanisch</string>
+    <string name="buttonEng">Deutsch - Englisch</string>
+    <string name="buttonFra">Deutsch - Französisch</string>
+    <string name="buttonIta">Deutsch - Italienisch</string>
+    <string name="buttonSettings">Allgemeine Einstellungen</string>
+    <string name="buttonHelp">Hilfe</string>
+    <string name="buttonBackStart">&lt;-- Sprachauswahl</string>
+    <string name="buttonExercise">Vokabeln</string>
+    <string name="buttonTest">Test</string>
+    <string name="buttonStatistic">Statistik</string>
+    <string name="buttonNewVocab">Neue Vokabeln</string>
+    <string name="buttonSpcSettings">spezifische Einstellungen</string>
+    <string name="buttonBack">Zurück</string>
+    <string name="Continue">Weiter</string>
+    <string name="buttonTip">Tipp</string>
+    <string name="buttonNext">Nächste</string>
+    <string name="buttonShowMe">Zeigs mir!</string>
+    <string name="askLang1"></string>
+    <string name="askLang2"></string>
+    <string name="whichLang">In welcher Sprache sollen die Vokabeln ausgegeben werden?</string>
+    <string name="easyVocab">Einfach!</string>
+    <string name="hardVocab">Schwer!</string>
+    <string name="loadSettings">Einstellungen laden</string>
+    <string name="resetEasy">*Einfach* zurücksetzen</string>
+    <string name="resetHard">*Schwer* zurücksetzen</string>
+    <string name="resetNoRepeat">*noRepeat* zurücksetzen</string>
+    <string name="chooseEasy">Leicht</string>
+    <string name="chooseNormal">Normal</string>
+    <string name="chooseHard">Hart</string>
+    <string name="showTest">Test anzeigen</string>
+    <string name="resetAllLists">Alle Listen zurücksetzen</string>
+    <string name="markAsNormal">*Normal*</string>
+    <string name="numberTrainer">Zahlen</string>
+    <string name="characters">Zeichen</string>
+
+</resources>
